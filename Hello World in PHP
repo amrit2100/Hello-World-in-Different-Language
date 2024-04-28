@@ -1,0 +1,8 @@
+<?php
+Print "Hello, World!\n";
+?>
+
+
+
+to run
+php helloworld.php
