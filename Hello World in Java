@@ -3,3 +3,10 @@ public class helloworld {
         System.out.println("Hello World!");
     }
 }
+
+
+
+
+to to run
+javac helloworld.java
+java helloworld
